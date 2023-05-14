@@ -23,5 +23,11 @@ If running the test is desired:
 
 - pytest
 
+Author's
+- Matteo Bassani
+- Dean Golden
+- Rocio Krebs
+- Nathan Rayon
+
 Note
 - dg user is LightHardt
